@@ -121,6 +121,7 @@ Visualize Data in Google Looker Studio
 4.	Title & Share the Dashboard
 
 Below is the visuals of results
+![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/3f8cc62135f52a167e2cc977ab7a4c4d1bca2621/A6.png)
 
 
 
