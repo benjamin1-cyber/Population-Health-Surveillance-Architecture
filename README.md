@@ -93,7 +93,11 @@ Steps for FHIR Data Exchange with HAPI FHIR and Postman
 8. Python REST API Example
 
 Below is Visuals of the results
+![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/fe013071b758bbf954e74e740846454dce8b8564/A4.png)
 
+
+# Architecture Development Part 6: Aggregation and Visualization of
+Data for Disease Outbreak Surveillance
 
 
 
