@@ -55,12 +55,13 @@ Installing Synthea
 Download the latest version of Synthea from the official GitHub repository
 Create a directory for Synthea and move the JAR file
 
-Below are Evidence of Synthea Patient Generation and Table showing number of Patients
-https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/A3.png
-https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/PORTAGE%20HOSPITAL%20SYNTHEA-3.png
-https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/MGH%20SYNTHEA-3.png
-https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/BCMH%20SYNTHEA-3.png
-https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/ASPIRUS%20UBUNTU%20SYNTHEA-3.png
+Below are Evidence of Synthea Patient Generation and Table showing number of Patients.
+
+![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/A3.png)
+![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/PORTAGE%20HOSPITAL%20SYNTHEA-3.png)
+![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/MGH%20SYNTHEA-3.png)
+![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/BCMH%20SYNTHEA-3.png)
+![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/ASPIRUS%20UBUNTU%20SYNTHEA-3.png)
 
    
 
