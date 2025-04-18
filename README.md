@@ -46,7 +46,16 @@ Steps:
 Below are evidence of Steps above
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/86d1541665a73012fea25060042d2e75661104bc/Aspirus%20Ubuntu.png)
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/1b8a10306894dd12b269882a4e0449df4da86361/BCMH.png)
-![](
-![](
+![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/b03da736e6a04cf3e992ae0117cfa70644abdf45/MGH.png)
+![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/b03da736e6a04cf3e992ae0117cfa70644abdf45/Portage%20Hospital.png)
+
+# Architecture Development Part 3: Generation of Synthea Patient and Syndromic Surveillance Data for Hospital EHRs to Simulate Disease Outbreak
+Steps
+Installing Synthea 
+Download the latest version of Synthea from the official GitHub repository
+Create a directory for Synthea and move the JAR file
+
+Below are Evidence of Synthea Patient Generation
+
    
 
