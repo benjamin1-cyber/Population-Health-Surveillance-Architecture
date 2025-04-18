@@ -21,9 +21,11 @@ VM Configuration
 5.	Repeat for Additional VMs
    
 Below is evidence of VM created
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/cbeb0e94cb21b0a5cf18eeb4ed38acf1aadd7f9f/A2.png)
 
 The table confirms the OS compatibility and shows the network is working.
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/e034b8018517ac182bec7493cafbd243dab48191/A1.png)
 
 
@@ -49,6 +51,7 @@ Steps:
 7.	Keep OpenEMR Updated
 
 Below are evidence of Steps above
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/86d1541665a73012fea25060042d2e75661104bc/Aspirus%20Ubuntu.png)
 
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/1b8a10306894dd12b269882a4e0449df4da86361/BCMH.png)
@@ -94,6 +97,7 @@ Steps
 8. Manage the Container
 
 Below are visuals of installation and configuration of Hapi-FHIR Server
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/51be6e498a08badfd4ba5aac9c21da86380c13b5/A4.png)
 
 
@@ -111,6 +115,7 @@ Steps for FHIR Data Exchange with HAPI FHIR and Postman
 8. Python REST API Example
 
 Below is Visuals of the results
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/fe013071b758bbf954e74e740846454dce8b8564/A4.png)
 
 
@@ -131,6 +136,7 @@ Visualize Data in Google Looker Studio
 4.	Title & Share the Dashboard
 
 Below is the visuals of results
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/3f8cc62135f52a167e2cc977ab7a4c4d1bca2621/A6.png)
 
 
