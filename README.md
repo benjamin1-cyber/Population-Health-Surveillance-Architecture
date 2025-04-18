@@ -50,9 +50,13 @@ Steps:
 
 Below are evidence of Steps above
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/86d1541665a73012fea25060042d2e75661104bc/Aspirus%20Ubuntu.png)
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/1b8a10306894dd12b269882a4e0449df4da86361/BCMH.png)
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/b03da736e6a04cf3e992ae0117cfa70644abdf45/MGH.png)
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/b03da736e6a04cf3e992ae0117cfa70644abdf45/Portage%20Hospital.png)
+
 
 # Architecture Development Part 3: Generation of Synthea Patient and Syndromic Surveillance Data for Hospital EHRs to Simulate Disease Outbreak
 This work is about learning how to generate synthetic patient and syndromic surveillance data using Synthea, a tool designed to create realistic, privacy-safe healthcare data. The main goal is to simulate a disease outbreak—like COVID-19—across a specific geographic area using synthetic patient records, allowing for more informed and timely public health decision-making. In this module, I will be using Synthea to generate patient data that mimics real-world scenarios, including demographics, conditions, and treatments. This experience is especially valuable for developing skills in public health research, outbreak modeling, and understanding the strengths and limitations of synthetic data. It helps me explore how surveillance systems can be tested and improved without using real patient records, which supports both privacy and innovation in healthcare analytics.
@@ -65,14 +69,20 @@ Generating COVID Simulation Messages in the synthea directory.
 Below are Evidence of Synthea Patient Generation and Table showing number of Patients.
 
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/A3.png)
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/PORTAGE%20HOSPITAL%20SYNTHEA-3.png)
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/MGH%20SYNTHEA-3.png)
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/BCMH%20SYNTHEA-3.png)
+
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/ASPIRUS%20UBUNTU%20SYNTHEA-3.png)
+
 
 
 # Architecture Development Part 4: Installation and Configuration of Hapi-FHIR Server
 This architecture is about setting up and working with HAPI-FHIR, an open-source server that supports the FHIR standard—a modern framework for exchanging healthcare data across systems. I will be installing and configuring HAPI-FHIR within the HIE (UPHIE) virtual machine to enable secure, real-time sharing of health information between my virtual hospitals. This is a key step in building a connected public health surveillance system that supports early outbreak detection and coordinated responses. Through this module, I will get hands-on experience with FHIR concepts, troubleshoot server-related issues, and better understand how interoperability tools like HAPI-FHIR contribute to efficient public health data exchange and informed decision-making during disease outbreaks.
+
 Steps
 1. Log in to the UPHIE VM
 2. Verify Docker Installation
