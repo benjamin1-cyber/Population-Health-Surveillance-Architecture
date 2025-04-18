@@ -54,6 +54,7 @@ Steps
 Installing Synthea 
 Download the latest version of Synthea from the official GitHub repository
 Create a directory for Synthea and move the JAR file
+Generating COVID Simulation Messages in the synthea directory.
 
 Below are Evidence of Synthea Patient Generation and Table showing number of Patients.
 
@@ -62,6 +63,23 @@ Below are Evidence of Synthea Patient Generation and Table showing number of Pat
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/MGH%20SYNTHEA-3.png)
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/BCMH%20SYNTHEA-3.png)
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/260ef923b954882c808b1cc9ab51c1bb55d2180d/ASPIRUS%20UBUNTU%20SYNTHEA-3.png)
+
+
+# Architecture Development Part 4: Installation and Configuration of Hapi-FHIR Server
+Steps
+1. Log in to the UPHIE VM
+2. Verify Docker Installation
+3. Pull the HAPI FHIR Docker Image
+4. Configure HAPI FHIR
+5. Deploy the HAPI FHIR Container
+6. Verify Deployment
+7. Access the HAPI FHIR Portal
+8. Manage the Container
+
+Below are visuals of installation and configuration of Hapi-FHIR Server
+
+
+
 
    
 
