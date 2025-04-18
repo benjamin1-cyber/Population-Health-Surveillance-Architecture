@@ -77,6 +77,24 @@ Steps
 8. Manage the Container
 
 Below are visuals of installation and configuration of Hapi-FHIR Server
+![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/51be6e498a08badfd4ba5aac9c21da86380c13b5/A4.png)
+
+
+# Architecture Development Part 5: Interoperability- FHIR Data Exchange with HAPI-FHIR
+
+Steps for FHIR Data Exchange with HAPI FHIR and Postman
+1. Install Postman
+2. Access HAPI FHIR Swagger UI
+3. Create a New Practitioner (POST Request) 
+4. Search for Practitioners (GET Request)
+5. Filtered Search
+6. Update/Delete a Practitioner
+7. Use HAPI FHIR Dashboard
+8. Python REST API Example
+
+Below is Visuals of the results
+
+
 
 
 
