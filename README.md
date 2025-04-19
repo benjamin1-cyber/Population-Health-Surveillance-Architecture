@@ -30,7 +30,7 @@ The table confirms the OS compatibility and shows the network is working.
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/e034b8018517ac182bec7493cafbd243dab48191/A1.png)
 
 Zoom link and Password to video showing how the Pinging was done.
-![](https://michigantech.zoom.us/rec/share/YdA02N3weSKzrpaShEL7WrgiuJMByTO1Q8QdfBePg2qPy28WUsJ96ms8dq4IYnSc.07pYnUuOYywOEo-W)
+https://michigantech.zoom.us/rec/share/YdA02N3weSKzrpaShEL7WrgiuJMByTO1Q8QdfBePg2qPy28WUsJ96ms8dq4IYnSc.07pYnUuOYywOEo-W
 Passcode: &4Z=uECi
 
 
