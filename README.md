@@ -4,7 +4,8 @@ A project focused on creating virtual healthcare systems, setting up electronic 
 
 # Architecture Development Part 1: Virtual Machine Configuration/Testing 
 
-I set up a network with five virtual machines: four for hospitals and one for a Health Information Exchange (HIE). Each hospital VM runs an operating system that works with OpenEMR, and the HIE VM runs an OS that works with HAPI-FHIR. I checked the connections by pinging each hospital from the HIE VM.
+This architecturet requires me to configure a virtualized network environment consisting of five virtual machines (VMs): four representing hospitals (Aspirus Hospital, Portage Health Hospital, Baraga County Memorial Hospital, and Marquette General Hospital) and one serving as the Upper Peninsula Health Information Exchange (UPHIE). I will install and set up each VM with the appropriate operating system—ensuring compatibility with OpenEMR for the hospitals and Hapi-FHIR for the UPHIE—while maintaining a shared IP addressing scheme to establish connectivity between all systems.
+Once configured, I will verify the setup by completing a table that confirms OS compatibility, assigned IP addresses, and successful pings between all VMs. Additionally, I must provide a recorded Zoom demonstration from the UPHIE VM, showing successful ping commands to each hospital VM as proof of functional connectivity. This exercise will help me develop practical skills in deploying and testing networked environments in a secure, virtualized setting before applying such configurations in real-world healthcare IT infrastructure.
 # steps to connect to Cluster and VM configuration
 Virtual Cluster Access
 1.	Set Up MTU-VPN
@@ -27,6 +28,10 @@ Below is evidence of VM created
 The table confirms the OS compatibility and shows the network is working.
 
 ![](https://github.com/benjamin1-cyber/Population-Health-Surveillance-Architecture/blob/e034b8018517ac182bec7493cafbd243dab48191/A1.png)
+
+Zoom link and Password to video showing how the Pinging was done.
+![](https://michigantech.zoom.us/rec/share/YdA02N3weSKzrpaShEL7WrgiuJMByTO1Q8QdfBePg2qPy28WUsJ96ms8dq4IYnSc.07pYnUuOYywOEo-W)
+Passcode: &4Z=uECi
 
 
 # Architecture Development Part 2: Installation, Configuration, and Security of OpenEMR
